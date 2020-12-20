@@ -1,12 +1,30 @@
 #+title: 私生活ページ
 
 * プライベートタスク                    :refile:
-** TODO xxx銀行口座に振込み
-DEADLINE: <2020-12-24 Thu>
+** TODAY [#C] xxx銀行口座に入金
 ** TODO お年玉の用意
+:LOGBOOK:
+- State "TODO"       from "TODAY"      [2020-12-20 Sun 17:49]
+- State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:47]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
 ** 年賀状の作成                        :project:
-*** TODO buy プリンタインク (黒)
+*** TODAY [#B] buy プリンタインク (黒)
+作業メモ
+- [[https://www.epson.jp/products/colorio/ep713a/supply.htm][カラリオプリンター　EP-713A　オプション・消耗品｜製品情報｜エプソン]]
 *** TODO 宛名印刷
-** TODO 自転車のライトが壊れたので対応
+:LOGBOOK:
+- State "TODO"       from "WEEK"       [2020-12-20 Sun 17:49]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
+** WEEK 自転車のライトが壊れたので対応
+:LOGBOOK:
+- State "WEEK"       from "WEEK"       [2020-12-20 Sun 17:51]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
+:END:
 ** TODO ローストビーフのレシピ調査
+:LOGBOOK:
+- State "TODO"       from "WEEK"       [2020-12-20 Sun 17:49]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
 ** TODO Huginn を試してみる

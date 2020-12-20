@@ -2,11 +2,39 @@
 
 * App ABC task                          :refile:
 ** abc ver.1.3                         :project:
-*** TODO abc ver.1.3 機能洗い出し
+*** TODAY [#D] abc ver.1.3 機能洗い出し
+:LOGBOOK:
+- State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:52]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
+- State "TODO"       from "TODAY"      [2020-12-20 Sun 17:49]
+- State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:47]
+- State "WEEK"       from "WEEK"       [2020-12-20 Sun 17:46]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
 *** TODO abc ver.1.3 xyz module 仮実装
-*** TODO abc ver.1.3 仮実装コードレビュー
+*** WEEK abc ver.1.3 仮実装コードレビュー
+:LOGBOOK:
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
+- State "TODO"       from "WEEK"       [2020-12-20 Sun 17:49]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
 ** ドキュメント作成                    :project:
-*** TODO abc doc chap.1 external func ドラフト作成
+*** WEEK abc doc chap.1 external func ドラフト作成
+:LOGBOOK:
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
+:END:
 *** TODO abc doc chap.2 internal func ドラフト作成
-** TODO abc 新機能ヒアリングメール整理
+:LOGBOOK:
+- State "TODO"       from "WEEK"       [2020-12-20 Sun 17:49]
+- State "WEEK"       from "WEEK"       [2020-12-20 Sun 17:46]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
+:END:
+** TODAY [#A] abc 新機能ヒアリングメール整理
+:LOGBOOK:
+- State "TODAY"      from "DONE"       [2020-12-20 Sun 17:57]
+- State "DONE"       from "TODAY"      [2020-12-20 Sun 17:56]
+- State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:52]
+- State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
+:END:
 * 参考情報
+- [[https://github.com/django/django][GitHub - django/django: The Web framework for perfectionists with deadlines.]]
