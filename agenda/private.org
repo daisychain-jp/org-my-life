@@ -1,7 +1,8 @@
 #+title: 私生活ページ
 
-* プライベートタスク
+* プライベートタスク                    :refile:
 ** TODO xxx銀行口座に振込み
+DEADLINE: <2020-12-24 Thu>
 ** TODO お年玉の用意
 ** 年賀状の作成                        :project:
 *** TODO buy プリンタインク (黒)
