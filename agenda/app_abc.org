@@ -29,8 +29,10 @@
 - State "WEEK"       from "WEEK"       [2020-12-20 Sun 17:46]
 - State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
 :END:
-** TODAY [#A] abc 新機能ヒアリングメール整理
+** DONE abc 新機能ヒアリングメール整理
+CLOSED: [2020-12-20 Sun 18:02]
 :LOGBOOK:
+- State "DONE"       from "TODAY"      [2020-12-20 Sun 18:02]
 - State "TODAY"      from "DONE"       [2020-12-20 Sun 17:57]
 - State "DONE"       from "TODAY"      [2020-12-20 Sun 17:56]
 - State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:52]

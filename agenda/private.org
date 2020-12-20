@@ -1,15 +1,27 @@
 #+title: 私生活ページ
 
 * プライベートタスク                    :refile:
-** TODAY [#C] xxx銀行口座に入金
+:PROPERTIES:
+:ID:       217f7c7d-15f8-4f20-982c-f71a586242ca
+:END:
 ** TODO お年玉の用意
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:
 :LOGBOOK:
 - State "TODO"       from "TODAY"      [2020-12-20 Sun 17:49]
 - State "TODAY"      from "WEEK"       [2020-12-20 Sun 17:47]
 - State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
 :END:
 ** 年賀状の作成                        :project:
-*** TODAY [#B] buy プリンタインク (黒)
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:
+*** DONE buy プリンタインク (黒)
+CLOSED: [2020-12-20 Sun 18:02]
+:LOGBOOK:
+- State "DONE"       from "TODAY"      [2020-12-20 Sun 18:02]
+:END:
 作業メモ
 - [[https://www.epson.jp/products/colorio/ep713a/supply.htm][カラリオプリンター　EP-713A　オプション・消耗品｜製品情報｜エプソン]]
 *** TODO 宛名印刷
@@ -18,13 +30,22 @@
 - State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
 :END:
 ** WEEK 自転車のライトが壊れたので対応
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:
 :LOGBOOK:
 - State "WEEK"       from "WEEK"       [2020-12-20 Sun 17:51]
 - State "WEEK"       from "TODO"       [2020-12-20 Sun 17:51]
 :END:
 ** TODO ローストビーフのレシピ調査
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:
 :LOGBOOK:
 - State "TODO"       from "WEEK"       [2020-12-20 Sun 17:49]
 - State "WEEK"       from "TODO"       [2020-12-20 Sun 17:46]
 :END:
 ** TODO Huginn を試してみる
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:

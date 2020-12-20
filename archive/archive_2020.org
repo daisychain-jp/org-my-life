@@ -23,3 +23,11 @@
 *** 2020-12-18 Friday
 *** 2020-12-19 Saturday
 *** 2020-12-20 Sunday
+**** DONE xxx銀行口座に入金
+CLOSED: [2020-12-20 Sun 18:03]
+:PROPERTIES:
+:REFERENCE: [[id:217f7c7d-15f8-4f20-982c-f71a586242ca]]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODAY"      [2020-12-20 Sun 18:03]
+:END:
